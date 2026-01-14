@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChristianQueinnec
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning canvas
 - 📫 How to reach me: find it!
 
 <!---
